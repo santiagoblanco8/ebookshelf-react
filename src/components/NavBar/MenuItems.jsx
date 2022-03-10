@@ -20,7 +20,7 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Iniciar Sesión',
+        title: 'About Us',
         url: '#',
         cName: 'nav-links'
     },
